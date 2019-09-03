@@ -11,4 +11,4 @@ http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=ZDCJ201513013&v
 
 2.Only LPP
 
-https://raw.githubusercontent.com/fish-kong/Recurring-PCA-LPP-papers/master/LPP.jpg
+![Image text](https://raw.githubusercontent.com/fish-kong/Recurring-PCA-LPP-papers/master/LPP.jpg)
